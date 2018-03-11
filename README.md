@@ -1,18 +1,18 @@
-# AntiBot
-Telegram AntiBot and AntiSpam
+# AntiBot<br>
+Telegram AntiBot and AntiSpam<br>
 
-Installation:
-sudo apt update && apt upgrade -y
-sudo apt-get install php php-curl php-xml php-mbstring -y
-git clone https://github.com/zPinkFloyd/AntiBot.git
-cd AntiBot
+Installation:<br>
+sudo apt update && apt upgrade -y<br>
+sudo apt-get install php php-curl php-xml php-mbstring -y<br>
+git clone https://github.com/zPinkFloyd/AntiBot.git<br>
+cd AntiBot<br>
 
-Frist start:
-Repeat twice "php bot.php"
+Frist start:<br>
+Repeat twice "php bot.php"<br>
 
-Start:
-php bot.php
+Start:<br>
+php bot.php<br>
 
-Credits:
-<a href="https://t.me/FLOOD_WAIT_666">zPinkFloyd</a> - bot.php
-<a href="https://t.me/INPUT_USER_DEACTIVATED">iDavidef</a> - telegram_class.php
+Credits:<br>
+<a href="https://t.me/FLOOD_WAIT_666">zPinkFloyd</a> - bot.php<br>
+<a href="https://t.me/INPUT_USER_DEACTIVATED">iDavidef</a> - telegram_class.php<br>
