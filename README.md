@@ -7,7 +7,7 @@ sudo apt-get install php php-curl php-xml php-mbstring -y<br>
 git clone https://github.com/zPinkFloyd/AntiBot.git<br>
 cd AntiBot<br>
 
-Frist start:<br>
+First start:<br>
 Repeat twice "php bot.php"<br>
 
 Start:<br>
